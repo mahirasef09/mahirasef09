@@ -10,7 +10,7 @@
   </a>
   <a href="https://www.facebook.com/md.mahirasef.ador?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a href="https://discordapp.com/users/1257479595784011787">
+  </a href="https://discordapp.com/users/1257479595784011787" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">A passionate web developer with a love for crafting digital experiences, diving into captivating books, and staying active on the badminton court.<br><br>- 🔭 I’m working as Technical Associate (IT) at BCC<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I love to read books & play badminton</p>
+<p align="left">A passionate web developer with a love for crafting digital experiences, diving into captivating programming books, and staying active on the badminton court.<br><br>- 🔭 I’m working as Technical Associate (IT) at BCC<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I love to read books & play badminton</p>
 
 ###
 
