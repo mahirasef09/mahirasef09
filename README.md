@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">A passionate web developer with a love for crafting digital experiences, diving into captivating programming books, and staying active on the badminton court.<br><br>- 🔭 I’m working as Technical Associate (IT) at Video Conferencing Project of Bangladesh Computer Council (BCC)<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I love to read books & play badminton</p>
+<p align="left">A passionate web developer with a love for crafting digital experiences, diving into captivating programming books and staying active on the badminton court.<br><br>- 🔭 I’m working as Technical Associate (IT) at Video Conferencing Project of Bangladesh Computer Council (BCC)<br>- 📚 I'm currently learning NEXT.JS<br>- ⚡ In my free time I love to read books & play badminton</p>
 
 ###
 
